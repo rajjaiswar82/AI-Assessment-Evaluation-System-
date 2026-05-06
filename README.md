@@ -75,7 +75,7 @@ A complete AI-powered assessment system with web interface, intelligent scoring,
 
 Edit `.env` file:
 ```env
-DATABASE_URL=postgresql://postgres:password@localhost:5432/ai_assessment_db
+DATABASE_URL=
 ```
 
 ## 🎓 Ready for Production
